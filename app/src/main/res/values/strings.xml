@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rent Car</string>
+    <string name="add_data">Add Data</string>
+    <string name="car_image">Car Image</string>
+</resources>
